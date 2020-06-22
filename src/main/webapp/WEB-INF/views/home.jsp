@@ -64,6 +64,22 @@
 	 		requestMapping시작페이지 바로가기
 	 	</a>
 	 </li>
+	 
+	 <!-- 컨트롤러 : ValidateController.java -->
+	 <h2>폼 데이터 검증하기 - Validator</h2>
+	 <li>
+	 	<a href="validate/memberRegist.do" target="_blank">
+	 		회원가입 바로가기
+	 	</a>
+	 </li>
+	 
+	 <!-- 컨트롤러 : DIController.java -->
+	 <h3>DI(Dependeny Injection) : 의존성주입</h3>
+	 <li>
+	 	<a href="di/myCalculator" target="_blank">
+	 		간단한 사칙연산 계산기
+	 	</a>
+	 </li>
 </body>
 </html>
 
