@@ -221,6 +221,11 @@ Environment 객체를 이용한 외부파일 참조 절차
 	 		티켓구매하기1
 	 	</a>
 	 </li>
+	 <li>
+		<a href="transaction/buyTicketTpl.do" target="_blank">
+			티켓구매하기2
+		</a>
+	</li>
 </body>
 </html>
 
