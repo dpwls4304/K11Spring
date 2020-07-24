@@ -226,6 +226,16 @@ Environment 객체를 이용한 외부파일 참조 절차
 			티켓구매하기2
 		</a>
 	</li>
+	
+	
+	
+	
+	<h2>JSON 사용하기(RestAPI)</h2>
+	<li>
+		<a href="./jsonUse/jsonView.do" target="_blank">
+			@ResponseBody 어노테이션을 이용한 JSON데이터 보기
+		</a>
+	</li>
 </body>
 </html>
 
